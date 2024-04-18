@@ -1,0 +1,33 @@
+.class-1, .class-2 {
+
+font-size: 28px;
+font-family: Helvetica, Times, sans-serif;
+margin: 530px;
+padding: 20px;
+box-shadow: 10px 10px 8px 10px #888888;
+border: 2.5px solid rgb(0, 0, 0);
+
+}
+
+.class-1 a:hover {
+  /* Styles to apply when hovered */
+  color: rgb(255, 0, 0);
+  /* Add more styles as needed */
+}
+
+.class-2 a:hover {
+  /* Styles to apply when hovered */
+  color: wheat;
+  /* Add more styles as needed */
+}
+
+.class-1 {
+  background-color: rgb(242, 255, 0);
+  color: rgb(0, 0, 0);
+}
+
+.class-2 {
+  margin-right: 100px;
+  color: greenyellow;
+  background-color: orchid;
+}
