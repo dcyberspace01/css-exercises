@@ -17,19 +17,29 @@ border: 2.5px solid rgb(0, 0, 0);
 }
 
 .class-2 a:hover {
-  
+
   /* Styles to apply when hovered */
   color: rgb(255, 0, 0);
   /* Add more styles as needed */
 
 }
-
-.class-1 {
-  color: greenyellow;
-  background-color: orchid;
+.class-1, a {
+  color: white;
+  background-color: black;
 }
 
-.class-2 {
+.class-2, a {
+  background-color: rgb(242, 255, 0);
+  color: rgb(0, 0, 0);
+
+}
+
+.class-1 a {
+  color: white;
+  background-color: black;
+}
+
+.class-2 a {
   background-color: rgb(242, 255, 0);
   color: rgb(0, 0, 0);
 
